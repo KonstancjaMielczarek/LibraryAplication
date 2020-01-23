@@ -1,1 +1,4 @@
-The application was written in PHP using HTML and CSS. This is a simple database application for managing an online library that stores data about books in the system. It allows you to browse books, choose the one you are interested in and order it. You can also search for books by their title or add and remove books from your basket. However, the administrator can manage users, add and remove them, as well as add new books, authors and genres or edit existing books. The folder lib2 contain the exported database.
+Library Application
+To write this application I used PHP, graphic interface I created with use of HTML 5 and CSS and tools which helped me comunicate with database provided me library Medoo.
+This is database application which include management of users, administrator can add new book, edit existing one, add new author and genre. From other side user can register or login and then search for a books, and if he find interesting one, he can add it to his basket and later order it. 
+To run application you have to import database (lib2.sql) to phpmyadmin, then you have to start Apache in Xampp and after that with use of Netbeans you can run it.
